@@ -1,0 +1,56 @@
+[
+   {
+      "_id": "1",
+      "name": "Alice Waters",
+      "picture": "https://example.com/chef-alice-waters.jpg",
+      "experience": "40 years",
+      "recipes": 3,
+      "likes": "5",
+      "description": "Alice Waters is a pioneering American chef who is best known for her focus on using locally-sourced, seasonal ingredients. She is the founder of Chez Panisse, a legendary restaurant in Berkeley, California that has been at the forefront of the farm-to-table movement since the 1970s. Waters has been honored with numerous awards for her contributions to the culinary world, including the James Beard Foundation's Lifetime Achievement Award in 2015."
+   },
+   {
+      "_id": "5",
+      "name": "David Chang",
+      "picture": "https://example.com/chef-david-chang.jpg",
+      "experience": "20 years",
+      "recipes": 3,
+      "likes": "5",
+      "description": "David Chang is a renowned American chef and restaurateur, best known for his innovative approach to cuisine and his critically acclaimed restaurants, including Momofuku Noodle Bar and Momofuku Ko in New York City. He is also the founder of the Momofuku restaurant group, which has expanded to include locations in several major cities across the United States and around the world. Chang is known for his fusion-style cooking, which blends Asian and Western culinary traditions, and for his focus on using fresh, locally sourced ingredients. In addition to his work in the restaurant industry, Chang is also a television personality and host of the Netflix series \"Ugly Delicious.\" He has been recognized with numerous awards and accolades throughout his career, including multiple James Beard Awards for his cooking and restaurant concepts."
+   },
+   {
+      "_id": "2",
+      "name": "Bobby Flay",
+      "picture": "https://example.com/chef-bobby-flay.jpg",
+      "experience": "35 years",
+      "recipes": 3,
+      "likes": "5",
+      "description": "Bobby Flay is an American celebrity chef, restaurateur, and TV personality. He has hosted several Food Network shows, including 'Beat Bobby Flay,' 'Throwdown! with Bobby Flay,' and 'Iron Chef America.' Flay is known for his bold and innovative cooking style, and he is particularly famous for his expertise in grilling and barbecue."
+   },
+   {
+      "_id": "11",
+      "name": "Alice Waters",
+      "picture": "https://example.com/chef-alice-waters.jpg",
+      "experience": "40 years",
+      "recipes": 3,
+      "likes": "5",
+      "description": "Alice Waters is a pioneering American chef who is best known for her focus on using locally-sourced, seasonal ingredients. She is the founder of Chez Panisse, a legendary restaurant in Berkeley, California that has been at the forefront of the farm-to-table movement since the 1970s. Waters has been honored with numerous awards for her contributions to the culinary world, including the James Beard Foundation's Lifetime Achievement Award in 2015."
+   },
+   {
+      "_id": "12",
+      "name": "David Chang",
+      "picture": "https://example.com/chef-david-chang.jpg",
+      "experience": "20 years",
+      "recipes": 3,
+      "likes": "5",
+      "description": "David Chang is a renowned American chef and restaurateur, best known for his innovative approach to cuisine and his critically acclaimed restaurants, including Momofuku Noodle Bar and Momofuku Ko in New York City. He is also the founder of the Momofuku restaurant group, which has expanded to include locations in several major cities across the United States and around the world. Chang is known for his fusion-style cooking, which blends Asian and Western culinary traditions, and for his focus on using fresh, locally sourced ingredients. In addition to his work in the restaurant industry, Chang is also a television personality and host of the Netflix series \"Ugly Delicious.\" He has been recognized with numerous awards and accolades throughout his career, including multiple James Beard Awards for his cooking and restaurant concepts."
+   },
+   {
+      "_id": "13",
+      "name": "Bobby Flay",
+      "picture": "https://example.com/chef-bobby-flay.jpg",
+      "experience": "35 years",
+      "recipes": 3,
+      "likes": "5",
+      "description": "Bobby Flay is an American celebrity chef, restaurateur, and TV personality. He has hosted several Food Network shows, including 'Beat Bobby Flay,' 'Throwdown! with Bobby Flay,' and 'Iron Chef America.' Flay is known for his bold and innovative cooking style, and he is particularly famous for his expertise in grilling and barbecue."
+   }
+]

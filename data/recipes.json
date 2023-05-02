@@ -1,0 +1,330 @@
+[
+   {
+      "title": "Fava Bean Salad",
+      "description": "This simple salad is a celebration of springtime, featuring fresh fava beans and a bright lemon vinaigrette.",
+      "picture": "https://example.com/recipe1.jpg",
+      "ingredients": [
+         "1 lb fresh fava beans",
+         "1/4 cup extra-virgin olive oil",
+         "2 tbsp fresh lemon juice",
+         "1/4 cup chopped fresh herbs (such as mint, parsley, and chives)",
+         "Salt and pepper, to taste"
+      ],
+      "cooking_method": "1. Bring a pot of salted water to a boil. Add the fava beans and cook for 2-3 minutes, until just tender. Drain and rinse under cold water to stop the cooking. 2. Remove the tough outer skins from the beans. 3. In a large bowl, whisk together the olive oil, lemon juice, and herbs. Add the fava beans and toss to combine. Season with salt and pepper to taste.",
+      "rating": "4.5",
+      "author": "1"
+   },
+   {
+      "title": "Roast Chicken with Panzanella",
+      "description": "A classic Tuscan dish, this roast chicken is served atop a bed of bread salad that soaks up all the delicious juices.",
+      "picture": "https://example.com/recipe2.jpg",
+      "ingredients": [
+         "1 whole chicken",
+         "1/2 loaf of day-old bread, torn into bite-sized pieces",
+         "1 pint cherry tomatoes, halved",
+         "1/2 red onion, thinly sliced",
+         "1/4 cup extra-virgin olive oil",
+         "2 tbsp red wine vinegar",
+         "1/4 cup chopped fresh basil",
+         "Salt and pepper, to taste"
+      ],
+      "cooking_method": "1. Preheat the oven to 425°F. Season the chicken generously with salt and pepper. 2. Place the chicken on a roasting pan and roast for 45-60 minutes, until the juices run clear and the skin is golden brown. 3. While the chicken is roasting, toss the bread, tomatoes, and red onion with the olive oil and vinegar. Season with salt and pepper to taste. 4. Just before serving, stir in the fresh basil. 5. Serve the chicken on a bed of the bread salad.",
+      "rating": "4.8",
+      "author": "1"
+   },
+   {
+      "title": "Peach Tart",
+      "description": "This dessert is a perfect way to showcase the best of summer peaches, with a flaky pastry crust and a creamy filling.",
+      "picture": "https://example.com/recipe3.jpg",
+      "ingredients": [
+         "1 1/2 cups all-purpose flour",
+         "1/2 cup unsalted butter, chilled and cut into small pieces",
+         "1/4 tsp salt",
+         "3 tbsp ice water",
+         "3 ripe peaches, peeled and sliced",
+         "1/4 cup sugar",
+         "1 tsp vanilla extract",
+         "2 egg yolks"
+      ],
+      "cooking_method": "1. Preheat the oven to 375°F. 2. In a food processor, pulse together the flour, butter, and salt until the mixture resembles coarse sand. Add the ice water and pulse until the dough comes together in a ball. 3. Roll the dough out into a circle and transfer it to a 9-inch tart pan. Trim the edges and prick the bottom with a fork. 4. In a medium bowl, whisk together the heavy cream, sugar, vanilla extract, and egg yolks. 5. Arrange the sliced peaches in the tart shell and pour the cream mixture over the top. 6. Bake for 30-35 minutes, until the filling is set and the crust is golden brown. Let cool before serving.",
+      "rating": "4.2",
+      "author": "1"
+   },
+   {
+      "title": "Momofuku Pork Buns",
+      "description": "These pork buns are a signature dish at Momofuku, and for good reason: they're soft, fluffy, and packed with flavor.",
+      "picture": "https://example.com/recipe1.jpg",
+      "ingredients": [
+         "1 lb boneless pork shoulder",
+         "2 tbsp vegetable oil",
+         "2 tbsp sugar",
+         "2 tbsp soy sauce",
+         "1/2 cup hoisin sauce",
+         "1/4 cup rice vinegar",
+         "1/4 cup scallions, thinly sliced",
+         "1/4 cup cucumber, thinly sliced",
+         "8 soft steamed buns"
+      ],
+      "cooking_method": "1. Preheat the oven to 325°F. 2. Season the pork shoulder with salt and pepper. Heat the vegetable oil in a Dutch oven or other heavy pot over medium-high heat. Sear the pork shoulder until browned on all sides. 3. In a bowl, whisk together the sugar, soy sauce, hoisin sauce, and rice vinegar. Pour the mixture over the pork shoulder. 4. Cover the pot with a lid and transfer to the oven. Bake for 2-3 hours, until the pork is tender and falling apart. 5. Remove the pork from the pot and shred it with a fork. 6. To assemble the buns, spread some hoisin sauce on the bottom of each bun. Add a few slices of pork, some scallions, and some cucumber. Serve immediately.",
+      "rating": "4.7",
+      "author": "5"
+   },
+   {
+      "title": "Miso Soup with Clams",
+      "description": "This comforting soup is a staple of Japanese cuisine, and is perfect for a chilly day.",
+      "picture": "https://example.com/recipe2.jpg",
+      "ingredients": [
+         "2 cups dashi (Japanese broth)",
+         "1/4 cup white miso paste",
+         "1/4 lb clams, scrubbed",
+         "2 scallions, thinly sliced",
+         "1/4 cup tofu, cubed",
+         "1/4 cup wakame (dried seaweed)"
+      ],
+      "cooking_method": "1. In a small pot, bring the dashi to a simmer. 2. In a small bowl, whisk together the miso paste and a ladleful of the hot dashi until smooth. 3. Add the miso mixture, clams, scallions, and tofu to the pot. Simmer until the clams have opened, about 5 minutes. 4. Remove from the heat and stir in the wakame. 5. Serve hot.",
+      "rating": "4.3",
+      "author": "5"
+   },
+   {
+      "title": "Fried Chicken",
+      "description": "This crispy fried chicken is a crowd-pleaser, with a spicy buttermilk marinade that adds tons of flavor.",
+      "picture": "https://example.com/recipe3.jpg",
+      "ingredients": [
+         "2 cups buttermilk",
+         "1/4 cup hot sauce",
+         "2 tbsp kosher salt",
+         "2 tbsp smoked paprika",
+         "2 tbsp garlic powder",
+         "2 tbsp onion powder",
+         "2 cups all-purpose flour",
+         "2 tbsp cornstarch",
+         "1 tbsp cayenne pepper",
+         "1 tbsp black pepper",
+         "1 tsp baking powder",
+         "1 tsp baking soda",
+         "Vegetable oil, for frying"
+      ],
+      "cooking_method": "1. In a large bowl, whisk together the buttermilk, hot sauce, 1 tablespoon of the kosher salt, smoked paprika, garlic powder, and onion powder. Add the chicken pieces and turn to coat. Cover and refrigerate for at least 2 hours, or up to overnight. 2. In a large, shallow bowl, whisk together the flour, cornstarch, remaining tablespoon of kosher salt, cayenne pepper, black pepper, baking powder, and baking soda. 3. Remove the chicken from the buttermilk mixture and let the excess drip off. Dredge each piece in the flour mixture, shaking off the excess. 4. In a large, deep pot, heat 2 inches of vegetable oil to 350°F. Working in batches, fry the chicken until golden brown and cooked through, about 6-8 minutes per side. 5. Transfer the chicken to a wire rack to drain. Serve hot.",
+      "rating": "4.9",
+      "author": "5"
+   },
+   {
+      "title": "Grilled Shrimp Skewers",
+      "description": "These juicy shrimp skewers are a summertime favorite, seasoned with a zesty lemon and garlic marinade.",
+      "picture": "https://example.com/recipe4.jpg",
+      "ingredients": [
+         "1 lb large shrimp, peeled and deveined",
+         "1/4 cup extra-virgin olive oil",
+         "3 cloves garlic, minced",
+         "2 tbsp fresh lemon juice",
+         "1/4 cup chopped fresh parsley",
+         "Salt and pepper, to taste"
+      ],
+      "cooking_method": "1. In a large bowl, whisk together the olive oil, garlic, lemon juice, and parsley. Add the shrimp and toss to coat. Season with salt and pepper to taste. 2. Thread the shrimp onto skewers. 3. Preheat the grill to medium-high heat. Grill the shrimp for 2-3 minutes per side, until pink and opaque.",
+      "rating": "4.2",
+      "author": "2"
+   },
+   {
+      "title": "Southwestern Black Bean Salad",
+      "description": "This hearty salad is packed with protein and flavor, featuring black beans, corn, avocado, and a spicy chipotle dressing.",
+      "picture": "https://example.com/recipe5.jpg",
+      "ingredients": [
+         "1 can black beans, drained and rinsed",
+         "1 can corn, drained",
+         "1 red bell pepper, diced",
+         "1/2 red onion, diced",
+         "1 avocado, diced",
+         "1/4 cup chopped fresh cilantro",
+         "1/4 cup extra-virgin olive oil",
+         "2 tbsp fresh lime juice",
+         "1 tbsp honey",
+         "1 tbsp adobo sauce (from a can of chipotle peppers in adobo)",
+         "Salt and pepper, to taste"
+      ],
+      "cooking_method": "1. In a large bowl, combine the black beans, corn, bell pepper, red onion, avocado, and cilantro. 2. In a small bowl, whisk together the olive oil, lime juice, honey, adobo sauce, and salt and pepper to taste. 3. Pour the dressing over the salad and toss to combine.",
+      "rating": "4.6",
+      "author": "2"
+   },
+   {
+      "title": "Blueberry Crisp",
+      "description": "This classic summer dessert is a crowd-pleaser, with sweet and tangy blueberries topped with a crunchy oat and almond topping.",
+      "picture": "https://example.com/recipe6.jpg",
+      "ingredients": [
+         "4 cups fresh blueberries",
+         "1 tbsp lemon juice",
+         "1/2 cup all-purpose flour",
+         "1/2 cup old-fashioned rolled oats",
+         "1/2 cup sliced almonds",
+         "1/2 cup brown sugar",
+         "1/4 tsp salt",
+         "1/2 cup unsalted butter, chilled and cut into small pieces"
+      ],
+      "cooking_method": "1. Preheat the oven to 375°F. 2. In a large bowl, combine the blueberries and lemon juice. Transfer to a 9-inch baking dish. 3. In a separate bowl, combine the flour, oats, almonds, brown sugar, and salt. Mix well. 4. Using a pastry blender or your hands, cut in the chilled butter until the mixture is crumbly. 5. Sprinkle the topping over the blueberries. 6. Bake for 35-40 minutes, until the topping is golden brown and the filling is bubbling. 7. Let cool for a few minutes before serving.",
+      "rating": "4.8",
+      "author": "2"
+   },
+   {
+      "title": "Fava Bean Salad",
+      "description": "This simple salad is a celebration of springtime, featuring fresh fava beans and a bright lemon vinaigrette.",
+      "picture": "https://example.com/recipe1.jpg",
+      "ingredients": [
+         "1 lb fresh fava beans",
+         "1/4 cup extra-virgin olive oil",
+         "2 tbsp fresh lemon juice",
+         "1/4 cup chopped fresh herbs (such as mint, parsley, and chives)",
+         "Salt and pepper, to taste"
+      ],
+      "cooking_method": "1. Bring a pot of salted water to a boil. Add the fava beans and cook for 2-3 minutes, until just tender. Drain and rinse under cold water to stop the cooking. 2. Remove the tough outer skins from the beans. 3. In a large bowl, whisk together the olive oil, lemon juice, and herbs. Add the fava beans and toss to combine. Season with salt and pepper to taste.",
+      "rating": "4.5",
+      "author": "11"
+   },
+   {
+      "title": "Roast Chicken with Panzanella",
+      "description": "A classic Tuscan dish, this roast chicken is served atop a bed of bread salad that soaks up all the delicious juices.",
+      "picture": "https://example.com/recipe2.jpg",
+      "ingredients": [
+         "1 whole chicken",
+         "1/2 loaf of day-old bread, torn into bite-sized pieces",
+         "1 pint cherry tomatoes, halved",
+         "1/2 red onion, thinly sliced",
+         "1/4 cup extra-virgin olive oil",
+         "2 tbsp red wine vinegar",
+         "1/4 cup chopped fresh basil",
+         "Salt and pepper, to taste"
+      ],
+      "cooking_method": "1. Preheat the oven to 425°F. Season the chicken generously with salt and pepper. 2. Place the chicken on a roasting pan and roast for 45-60 minutes, until the juices run clear and the skin is golden brown. 3. While the chicken is roasting, toss the bread, tomatoes, and red onion with the olive oil and vinegar. Season with salt and pepper to taste. 4. Just before serving, stir in the fresh basil. 5. Serve the chicken on a bed of the bread salad.",
+      "rating": "4.8",
+      "author": "11"
+   },
+   {
+      "title": "Peach Tart",
+      "description": "This dessert is a perfect way to showcase the best of summer peaches, with a flaky pastry crust and a creamy filling.",
+      "picture": "https://example.com/recipe3.jpg",
+      "ingredients": [
+         "1 1/2 cups all-purpose flour",
+         "1/2 cup unsalted butter, chilled and cut into small pieces",
+         "1/4 tsp salt",
+         "3 tbsp ice water",
+         "3 ripe peaches, peeled and sliced",
+         "1/4 cup sugar",
+         "1 tsp vanilla extract",
+         "2 egg yolks"
+      ],
+      "cooking_method": "1. Preheat the oven to 375°F. 2. In a food processor, pulse together the flour, butter, and salt until the mixture resembles coarse sand. Add the ice water and pulse until the dough comes together in a ball. 3. Roll the dough out into a circle and transfer it to a 9-inch tart pan. Trim the edges and prick the bottom with a fork. 4. In a medium bowl, whisk together the heavy cream, sugar, vanilla extract, and egg yolks. 5. Arrange the sliced peaches in the tart shell and pour the cream mixture over the top. 6. Bake for 30-35 minutes, until the filling is set and the crust is golden brown. Let cool before serving.",
+      "rating": "4.2",
+      "author": "11"
+   },
+   {
+      "title": "Momofuku Pork Buns",
+      "description": "These pork buns are a signature dish at Momofuku, and for good reason: they're soft, fluffy, and packed with flavor.",
+      "picture": "https://example.com/recipe1.jpg",
+      "ingredients": [
+         "1 lb boneless pork shoulder",
+         "2 tbsp vegetable oil",
+         "2 tbsp sugar",
+         "2 tbsp soy sauce",
+         "1/2 cup hoisin sauce",
+         "1/4 cup rice vinegar",
+         "1/4 cup scallions, thinly sliced",
+         "1/4 cup cucumber, thinly sliced",
+         "8 soft steamed buns"
+      ],
+      "cooking_method": "1. Preheat the oven to 325°F. 2. Season the pork shoulder with salt and pepper. Heat the vegetable oil in a Dutch oven or other heavy pot over medium-high heat. Sear the pork shoulder until browned on all sides. 3. In a bowl, whisk together the sugar, soy sauce, hoisin sauce, and rice vinegar. Pour the mixture over the pork shoulder. 4. Cover the pot with a lid and transfer to the oven. Bake for 2-3 hours, until the pork is tender and falling apart. 5. Remove the pork from the pot and shred it with a fork. 6. To assemble the buns, spread some hoisin sauce on the bottom of each bun. Add a few slices of pork, some scallions, and some cucumber. Serve immediately.",
+      "rating": "4.7",
+      "author": "12"
+   },
+   {
+      "title": "Miso Soup with Clams",
+      "description": "This comforting soup is a staple of Japanese cuisine, and is perfect for a chilly day.",
+      "picture": "https://example.com/recipe2.jpg",
+      "ingredients": [
+         "2 cups dashi (Japanese broth)",
+         "1/4 cup white miso paste",
+         "1/4 lb clams, scrubbed",
+         "2 scallions, thinly sliced",
+         "1/4 cup tofu, cubed",
+         "1/4 cup wakame (dried seaweed)"
+      ],
+      "cooking_method": "1. In a small pot, bring the dashi to a simmer. 2. In a small bowl, whisk together the miso paste and a ladleful of the hot dashi until smooth. 3. Add the miso mixture, clams, scallions, and tofu to the pot. Simmer until the clams have opened, about 5 minutes. 4. Remove from the heat and stir in the wakame. 5. Serve hot.",
+      "rating": "4.3",
+      "author": "12"
+   },
+   {
+      "title": "Fried Chicken",
+      "description": "This crispy fried chicken is a crowd-pleaser, with a spicy buttermilk marinade that adds tons of flavor.",
+      "picture": "https://example.com/recipe3.jpg",
+      "ingredients": [
+         "2 cups buttermilk",
+         "1/4 cup hot sauce",
+         "2 tbsp kosher salt",
+         "2 tbsp smoked paprika",
+         "2 tbsp garlic powder",
+         "2 tbsp onion powder",
+         "2 cups all-purpose flour",
+         "2 tbsp cornstarch",
+         "1 tbsp cayenne pepper",
+         "1 tbsp black pepper",
+         "1 tsp baking powder",
+         "1 tsp baking soda",
+         "Vegetable oil, for frying"
+      ],
+      "cooking_method": "1. In a large bowl, whisk together the buttermilk, hot sauce, 1 tablespoon of the kosher salt, smoked paprika, garlic powder, and onion powder. Add the chicken pieces and turn to coat. Cover and refrigerate for at least 2 hours, or up to overnight. 2. In a large, shallow bowl, whisk together the flour, cornstarch, remaining tablespoon of kosher salt, cayenne pepper, black pepper, baking powder, and baking soda. 3. Remove the chicken from the buttermilk mixture and let the excess drip off. Dredge each piece in the flour mixture, shaking off the excess. 4. In a large, deep pot, heat 2 inches of vegetable oil to 350°F. Working in batches, fry the chicken until golden brown and cooked through, about 6-8 minutes per side. 5. Transfer the chicken to a wire rack to drain. Serve hot.",
+      "rating": "4.9",
+      "author": "12"
+   },
+   {
+      "title": "Grilled Shrimp Skewers",
+      "description": "These juicy shrimp skewers are a summertime favorite, seasoned with a zesty lemon and garlic marinade.",
+      "picture": "https://example.com/recipe4.jpg",
+      "ingredients": [
+         "1 lb large shrimp, peeled and deveined",
+         "1/4 cup extra-virgin olive oil",
+         "3 cloves garlic, minced",
+         "2 tbsp fresh lemon juice",
+         "1/4 cup chopped fresh parsley",
+         "Salt and pepper, to taste"
+      ],
+      "cooking_method": "1. In a large bowl, whisk together the olive oil, garlic, lemon juice, and parsley. Add the shrimp and toss to coat. Season with salt and pepper to taste. 2. Thread the shrimp onto skewers. 3. Preheat the grill to medium-high heat. Grill the shrimp for 2-3 minutes per side, until pink and opaque.",
+      "rating": "4.2",
+      "author": "13"
+   },
+   {
+      "title": "Southwestern Black Bean Salad",
+      "description": "This hearty salad is packed with protein and flavor, featuring black beans, corn, avocado, and a spicy chipotle dressing.",
+      "picture": "https://example.com/recipe5.jpg",
+      "ingredients": [
+         "1 can black beans, drained and rinsed",
+         "1 can corn, drained",
+         "1 red bell pepper, diced",
+         "1/2 red onion, diced",
+         "1 avocado, diced",
+         "1/4 cup chopped fresh cilantro",
+         "1/4 cup extra-virgin olive oil",
+         "2 tbsp fresh lime juice",
+         "1 tbsp honey",
+         "1 tbsp adobo sauce (from a can of chipotle peppers in adobo)",
+         "Salt and pepper, to taste"
+      ],
+      "cooking_method": "1. In a large bowl, combine the black beans, corn, bell pepper, red onion, avocado, and cilantro. 2. In a small bowl, whisk together the olive oil, lime juice, honey, adobo sauce, and salt and pepper to taste. 3. Pour the dressing over the salad and toss to combine.",
+      "rating": "4.6",
+      "author": "13"
+   },
+   {
+      "title": "Blueberry Crisp",
+      "description": "This classic summer dessert is a crowd-pleaser, with sweet and tangy blueberries topped with a crunchy oat and almond topping.",
+      "picture": "https://example.com/recipe6.jpg",
+      "ingredients": [
+         "4 cups fresh blueberries",
+         "1 tbsp lemon juice",
+         "1/2 cup all-purpose flour",
+         "1/2 cup old-fashioned rolled oats",
+         "1/2 cup sliced almonds",
+         "1/2 cup brown sugar",
+         "1/4 tsp salt",
+         "1/2 cup unsalted butter, chilled and cut into small pieces"
+      ],
+      "cooking_method": "1. Preheat the oven to 375°F. 2. In a large bowl, combine the blueberries and lemon juice. Transfer to a 9-inch baking dish. 3. In a separate bowl, combine the flour, oats, almonds, brown sugar, and salt. Mix well. 4. Using a pastry blender or your hands, cut in the chilled butter until the mixture is crumbly. 5. Sprinkle the topping over the blueberries. 6. Bake for 35-40 minutes, until the topping is golden brown and the filling is bubbling. 7. Let cool for a few minutes before serving.",
+      "rating": "4.8",
+      "author": "13"
+   }
+]
