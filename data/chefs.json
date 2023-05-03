@@ -1,56 +1,56 @@
 [
    {
       "_id": "1",
-      "name": "Alice Waters",
-      "picture": "https://example.com/chef-alice-waters.jpg",
+      "name": "David Guas",
+      "picture": "https://www.chefspencil.com/wp-content/uploads/bfi_thumb/60ad561d271cf-p7pa8p44ltbip2k4ggg1vvxblgzzwjsry1s9hj0jio.jpeg",
       "experience": "40 years",
       "recipes": 3,
-      "likes": "5",
-      "description": "Alice Waters is a pioneering American chef who is best known for her focus on using locally-sourced, seasonal ingredients. She is the founder of Chez Panisse, a legendary restaurant in Berkeley, California that has been at the forefront of the farm-to-table movement since the 1970s. Waters has been honored with numerous awards for her contributions to the culinary world, including the James Beard Foundation's Lifetime Achievement Award in 2015."
+      "likes": "12",
+      "description": "Charismatic New Orleans-born chef David Guas, widely familiar from his frequent appearances on NBC’s “The Today Show” and CBS’ “The Talk,” brought his rugged charm as host of Travel Channels’ “American Grilled.” Guas has garnered national praise in publications like Food & Wine, Travel + Leisure, Saveur, Southern Living, The Local Palate, Bon Appétit, Garden & Gun, The New York Times, The Wall Street Journal, and The Washington Post for showcasing the soul of the south in his sinfully delicious Louisiana-style favorites and signature desserts at Bayou Bakery, Coffee Bar & Eatery, his funkified neighborhood gathering spot in Arlington, Virginia. Chef Guas has published two cookbooks - and his latest in 2015 was Grill Nation: 200 Surefire Recipes, Tips, and Techniques to Grill like a Pro."
    },
    {
       "_id": "5",
-      "name": "David Chang",
-      "picture": "https://example.com/chef-david-chang.jpg",
+      "name": "Steve McHugh",
+      "picture": "https://www.chefspencil.com/wp-content/uploads/bfi_thumb/60ad5dbae04e7-p7pbnl3klwzd92n2aybxdjmpdg6dmmtmlx9lttk8nk.jpg",
       "experience": "20 years",
       "recipes": 3,
-      "likes": "5",
-      "description": "David Chang is a renowned American chef and restaurateur, best known for his innovative approach to cuisine and his critically acclaimed restaurants, including Momofuku Noodle Bar and Momofuku Ko in New York City. He is also the founder of the Momofuku restaurant group, which has expanded to include locations in several major cities across the United States and around the world. Chang is known for his fusion-style cooking, which blends Asian and Western culinary traditions, and for his focus on using fresh, locally sourced ingredients. In addition to his work in the restaurant industry, Chang is also a television personality and host of the Netflix series \"Ugly Delicious.\" He has been recognized with numerous awards and accolades throughout his career, including multiple James Beard Awards for his cooking and restaurant concepts."
+      "likes": "8",
+      "description": "Chef Steve McHugh, five-time James Beard Award finalist, JBF Smart Catch Leader, and 2019 Good Food 100 restaurant honoree, opened Cured in San Antonio with a new lease on life after beating non-Hodgkin’s Lymphoma. McHugh’s gastronomic foundation relies on the purity of natural regional ingredients and the hands-on, and adulterated approach – from his charcuterie to his fermented and pickled provisions. Cured was named a top 50 nominee for Bon Appetit’s “America’s Best New Restaurants 2014”, a runner up for Esquire’s “Best New Restaurants in America 2014”, and to Eater’s list of “38 Essential Texas Restaurants” in 2015."
    },
    {
       "_id": "2",
-      "name": "Bobby Flay",
-      "picture": "https://example.com/chef-bobby-flay.jpg",
+      "name": "Matt Bolus",
+      "picture": "https://www.chefspencil.com/wp-content/uploads/bfi_thumb/60aeb62647c04-p7r3lrd7e4hgv2lr82x2all6rd1y32alsmlsb83t1s.png",
       "experience": "35 years",
       "recipes": 3,
-      "likes": "5",
-      "description": "Bobby Flay is an American celebrity chef, restaurateur, and TV personality. He has hosted several Food Network shows, including 'Beat Bobby Flay,' 'Throwdown! with Bobby Flay,' and 'Iron Chef America.' Flay is known for his bold and innovative cooking style, and he is particularly famous for his expertise in grilling and barbecue."
+      "likes": "7",
+      "description": "Matt Bolus is the Executive Chef at the 404 Kitchen in Nashville, TN. Matt attended the famed culinary school Le Cordon Bleu in London where he received the Grand Diplôme in 2003. Before moving to Nashville, Chef Bolus worked as a butcher and fishmonger at the James Beard award-winning FIG in Charleston, SC, and at sous chef stations at The Ocean Room at The Sanctuary Hotel in Kiawah Island, SC, and Little Star in Knoxville, TN. The 404 Kitchen has been named Best Restaurant in Nashville by Eater Nashville, the writer’s choice Best Restaurant in Nashville Scene, one of the 25 Best Restaurants in Thrillist and The Tennessean, and one of the Best Whiskey Bars in America by Travel + Leisure."
    },
    {
       "_id": "11",
-      "name": "Alice Waters",
-      "picture": "https://example.com/chef-alice-waters.jpg",
+      "name": "Matt Hyland",
+      "picture": "https://www.chefspencil.com/wp-content/uploads/bfi_thumb/60aebd8bc6c9a-p7r4z6pori59cwt5ly1twmkr9rfru3ihl9jxs0tjv4.jpg",
       "experience": "40 years",
       "recipes": 3,
-      "likes": "5",
-      "description": "Alice Waters is a pioneering American chef who is best known for her focus on using locally-sourced, seasonal ingredients. She is the founder of Chez Panisse, a legendary restaurant in Berkeley, California that has been at the forefront of the farm-to-table movement since the 1970s. Waters has been honored with numerous awards for her contributions to the culinary world, including the James Beard Foundation's Lifetime Achievement Award in 2015."
+      "likes": "4",
+      "description": "Matt Hyland is the Executive Chef and co-owner behind the beloved Pizza Loves Emily restaurants, Emily, Emmy Squared Pizza and Violet. Matt is from Brooklyn and has a Culinary Arts degree from the Institute of Culinary Education."
    },
    {
       "_id": "12",
-      "name": "David Chang",
-      "picture": "https://example.com/chef-david-chang.jpg",
+      "name": "Sam Marvin",
+      "picture": "https://www.chefspencil.com/wp-content/uploads/bfi_thumb/60c26e2d7db54-p8h4vmnhrok62gnneotpzgfp5tock26bvdgijcp7f4.jpg",
       "experience": "20 years",
       "recipes": 3,
-      "likes": "5",
-      "description": "David Chang is a renowned American chef and restaurateur, best known for his innovative approach to cuisine and his critically acclaimed restaurants, including Momofuku Noodle Bar and Momofuku Ko in New York City. He is also the founder of the Momofuku restaurant group, which has expanded to include locations in several major cities across the United States and around the world. Chang is known for his fusion-style cooking, which blends Asian and Western culinary traditions, and for his focus on using fresh, locally sourced ingredients. In addition to his work in the restaurant industry, Chang is also a television personality and host of the Netflix series \"Ugly Delicious.\" He has been recognized with numerous awards and accolades throughout his career, including multiple James Beard Awards for his cooking and restaurant concepts."
+      "likes": "12",
+      "description": "Chef Sam Marvin is a nationally-acclaimed, classically trained chef who earned his stripes in European kitchens and fine dining, first notably founding the iconic Bottega Louie in Los Angeles. Sam Marvin is the owner of Echo & Rig and Pluck. Echo & Rig brings approachable cuisine to customers with creative twists, and the menu highlights Marvin's expertise with butchery and ideating vegetable-forward, unique sides."
    },
    {
       "_id": "13",
-      "name": "Bobby Flay",
-      "picture": "https://example.com/chef-bobby-flay.jpg",
+      "name": "Scott Kampf",
+      "picture": "https://www.chefspencil.com/wp-content/uploads/bfi_thumb/60b1528dd61c5-p7ujph31iig6fmzzwrwn6or0xu9b3tt71re8x1s4b4.jpg",
       "experience": "35 years",
       "recipes": 3,
-      "likes": "5",
-      "description": "Bobby Flay is an American celebrity chef, restaurateur, and TV personality. He has hosted several Food Network shows, including 'Beat Bobby Flay,' 'Throwdown! with Bobby Flay,' and 'Iron Chef America.' Flay is known for his bold and innovative cooking style, and he is particularly famous for his expertise in grilling and barbecue."
+      "likes": "9",
+      "description": "Scott Kampf is the Executive Chef at the Union Burger Bar and the Southampton Social Club in Southampton, NY. A native New Yorker, Scott Kampf has been a professional chef for over two decades and has led an illustrious career with a focus on French-American cooking. His various honors along the way include the acclaimed Chaine des Rôtisseurs Award of Excellence and Star Chef’s People’s Choice Award."
    }
 ]
