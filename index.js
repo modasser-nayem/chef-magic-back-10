@@ -5,6 +5,7 @@ const app = express();
 // data
 const chefs = require("./data/chefs.json");
 const recipes = require("./data/recipes.json");
+const dishes = require("./data/dishes.json");
 
 app.use(cors());
 app.use(express.urlencoded({ extended: true }));
@@ -26,6 +27,10 @@ app.get("/chefs/:id", (req, res) => {
       chef,
       chefRecipes,
    });
+});
+
+app.get("/dishes", (req, res) => {
+   res.json(dishes);
 });
 
 const port = process.env.PORT || 5000;

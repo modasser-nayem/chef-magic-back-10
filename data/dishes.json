@@ -1,0 +1,72 @@
+[
+   {
+      "id": "1",
+      "name": "Cakes",
+      "img": "https://images.pexels.com/photos/1721934/pexels-photo-1721934.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": "150",
+      "rating": "4"
+   },
+   {
+      "id": "2",
+      "name": "Pizzas",
+      "img": "https://images.pexels.com/photos/12046657/pexels-photo-12046657.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": "250",
+      "rating": "5"
+   },
+   {
+      "id": "3",
+      "name": "Burgers",
+      "img": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": "100",
+      "rating": "3"
+   },
+   {
+      "id": "4",
+      "name": "Sandwiches",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYNsncpsp_duT2LKNBhvTEFQCpKTDL3J-Yg&usqp=CAU",
+      "price": "80",
+      "rating": "4.5"
+   },
+   {
+      "id": "5",
+      "name": "Salads",
+      "img": "https://images.pexels.com/photos/406152/pexels-photo-406152.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": "120",
+      "rating": "3.5"
+   },
+   {
+      "id": "6",
+      "name": "Wraps",
+      "img": "https://images.pexels.com/photos/6758378/pexels-photo-6758378.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": "90",
+      "rating": "4"
+   },
+   {
+      "id": "7",
+      "name": "Sushi",
+      "img": "https://images.pexels.com/photos/271715/pexels-photo-271715.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": "200",
+      "rating": "4.5"
+   },
+   {
+      "id": "8",
+      "name": "Fried Rice",
+      "img": "https://images.pexels.com/photos/105588/pexels-photo-105588.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": "110",
+      "rating": "3"
+   },
+   {
+      "id": "9",
+      "name": "Noodles",
+      "img": "https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": "130",
+      "rating": "4"
+   },
+   {
+      "id": "10",
+      "name": "Soups",
+      "img": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": "80",
+      "rating": "3.5"
+   }
+]
