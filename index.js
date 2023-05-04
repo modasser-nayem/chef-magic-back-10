@@ -7,7 +7,7 @@ const chefs = require("./data/chefs.json");
 const recipes = require("./data/recipes.json");
 const dishes = require("./data/dishes.json");
 
-app.use(cors());
+app.use(cors({ origin: "*" }));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
