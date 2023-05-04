@@ -7,7 +7,7 @@ const chefs = require("./data/chefs.json");
 const recipes = require("./data/recipes.json");
 const dishes = require("./data/dishes.json");
 
-app.use(cors({ origin: "https://chefs-magic.web.app/" }));
+app.use(cors());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
